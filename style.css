@@ -1,38 +1,39 @@
 h1 {
-    font-size: 48px; 
+    font-size: 60px; 
     padding-bottom: 0px;
     margin-bottom: 0px;
     font-weight: lighter;
 }
 
 p {
+    font-size: 20px;
     padding-top: 0px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 .box {
-    font-size: 12px;
+    font-size: 18px;
     padding-top: 0px;
     margin-top: 0px;
 }
 
 #name, #surname, #email {
-    font-size: 10px;
+    font-size: 14px;
     margin-top: 10px;
     padding: 0px;
 }
 
 .box4 {
-    font-size: 15px;
+    font-size: 18px;
     margin-bottom: 8px;
 }
 #role, #feature {
-    font-size: 8px;
+    font-size: 14px;
 }
 
 label {
-    font-size: 10px;
+    font-size: 16px;
     position: relative;
     padding-left: 0px;
     
@@ -61,12 +62,12 @@ input[type=checkbox] {
 }
 
 #comment {
-    font-size: 8px;
+    font-size: 10px;
     line-height: 12px;
     word-spacing: -1px;
     letter-spacing: -0.5px;
 }    
 #submit {
-    font-size: 8px;  
+    font-size: 12px;  
     border: none;
 }
