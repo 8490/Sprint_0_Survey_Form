@@ -1,0 +1,72 @@
+h1 {
+    font-size: 48px; 
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: lighter;
+}
+
+p {
+    padding-top: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.box {
+    font-size: 12px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#name, #surname, #email {
+    font-size: 10px;
+    margin-top: 10px;
+    padding: 0px;
+}
+
+.box4 {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+#role, #feature {
+    font-size: 8px;
+}
+
+label {
+    font-size: 10px;
+    position: relative;
+    padding-left: 0px;
+    
+}
+
+input[type=radio] {
+    height:8px; width:8px;
+    position: relative; 
+    bottom: -2px;
+    margin-right: 0px;
+}
+
+input[type=checkbox] {
+    height:8px; width:8px;
+    position: ; 
+    bottom: 4px;
+    margin-right: 1px;
+}
+
+#yes, #maybe, #not_sure, #no {
+    margin-bottom: 0px;
+    margin-top: 8px;
+}
+#fe, #be, #ds, #ac {
+    margin-top: 5px;
+}
+
+#comment {
+    font-size: 8px;
+    line-height: 12px;
+    word-spacing: -1px;
+    letter-spacing: -0.5px;
+}    
+#submit {
+    font-size: 8px;  
+    border: none;
+}
